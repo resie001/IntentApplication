@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intent Application</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_activity_with_data">Pindah Activity Dengan Data</string>
+    <string name="move_acitivy_with_subject">Pindah Activity Dengan Subjek</string>
+    <string name="dial_number">Dial A Number</string>
+    <string name="activity_result">Pindah Activity Dengan Result</string>
+    <string name="result_activity">Hasil dari Activity</string>
+    <string name="this_move_activity">Ini Move Activity</string>
+    <string name="content" />
+    <string name="contentResult">Pilih angka yang Kamu suka</string>
+    <string name="radio1">50</string>
+    <string name="radio2">100</string>
+    <string name="radio3">150</string>
+    <string name="radio4">200</string>
+    <string name="button_select">Pilih</string>
+</resources>
